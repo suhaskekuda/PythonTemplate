@@ -1,0 +1,16 @@
+{
+    "Setting": {
+        "AppURL": "",
+        "TestType": "URL"
+    },
+    "TestCase": [
+        {
+            "TestId": "",
+            "TestCase": "",
+            "ExceptedResponse": "",
+            "Route": "",
+            "Params": {},
+            "StatusCode": ""
+        }
+    ]
+}

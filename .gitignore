@@ -1,0 +1,13 @@
+#ignore log file
+logs/*
+
+#ignore virtual environment
+venv
+
+#ignore python cache
+__pycache__
+test/__pycache__
+.pytest_cache
+
+#ignore report
+report/*
